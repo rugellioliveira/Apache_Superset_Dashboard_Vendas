@@ -1,0 +1,49 @@
+slice_name: "Cart\xE3o de Cr\xE9dito"
+description: null
+certified_by: null
+certification_details: null
+viz_type: big_number_total
+params:
+  datasource: 30__table
+  viz_type: big_number_total
+  slice_id: 78
+  metric:
+    aggregate: SUM
+    column:
+      advanced_data_type: null
+      changed_on: '2024-05-31T01:30:24.848834'
+      column_name: Valor
+      created_on: '2024-05-31T01:30:24.848830'
+      description: null
+      expression: null
+      extra: '{"warning_markdown":null}'
+      filterable: true
+      groupby: true
+      id: 758
+      is_active: true
+      is_dttm: false
+      python_date_format: null
+      type: FLOAT
+      type_generic: 0
+      uuid: edb69434-d046-45b8-942c-11e355ed86b6
+      verbose_name: null
+    datasourceWarning: false
+    expressionType: SIMPLE
+    hasCustomLabel: false
+    label: SUM(Valor)
+    optionName: metric_xyjimj6jihg_jlvc35ufhl
+    sqlExpression: null
+  adhoc_filters: []
+  header_font_size: 0.4
+  subheader_font_size: 0.15
+  y_axis_format: $,.2f
+  time_format: smart_date
+  conditional_formatting: []
+  extra_form_data: {}
+  dashboards:
+  - 8
+query_context: '{"datasource":{"id":30,"type":"table"},"force":false,"queries":[{"filters":[],"extras":{"having":"","where":""},"applied_time_extras":{},"columns":[],"metrics":[{"aggregate":"SUM","column":{"advanced_data_type":null,"changed_on":"2024-05-31T01:30:24.848834","column_name":"Valor","created_on":"2024-05-31T01:30:24.848830","description":null,"expression":null,"extra":"{\"warning_markdown\":null}","filterable":true,"groupby":true,"id":758,"is_active":true,"is_dttm":false,"python_date_format":null,"type":"FLOAT","type_generic":0,"uuid":"edb69434-d046-45b8-942c-11e355ed86b6","verbose_name":null},"datasourceWarning":false,"expressionType":"SIMPLE","hasCustomLabel":false,"label":"SUM(Valor)","optionName":"metric_xyjimj6jihg_jlvc35ufhl","sqlExpression":null}],"annotation_layers":[],"series_limit":0,"order_desc":true,"url_params":{},"custom_params":{},"custom_form_data":{}}],"form_data":{"datasource":"30__table","viz_type":"big_number_total","slice_id":78,"metric":{"aggregate":"SUM","column":{"advanced_data_type":null,"changed_on":"2024-05-31T01:30:24.848834","column_name":"Valor","created_on":"2024-05-31T01:30:24.848830","description":null,"expression":null,"extra":"{\"warning_markdown\":null}","filterable":true,"groupby":true,"id":758,"is_active":true,"is_dttm":false,"python_date_format":null,"type":"FLOAT","type_generic":0,"uuid":"edb69434-d046-45b8-942c-11e355ed86b6","verbose_name":null},"datasourceWarning":false,"expressionType":"SIMPLE","hasCustomLabel":false,"label":"SUM(Valor)","optionName":"metric_xyjimj6jihg_jlvc35ufhl","sqlExpression":null},"adhoc_filters":[],"header_font_size":0.4,"subheader_font_size":0.15,"y_axis_format":"$,.2f","time_format":"smart_date","conditional_formatting":[],"extra_form_data":{},"dashboards":[8],"force":false,"result_format":"json","result_type":"full"},"result_format":"json","result_type":"full"}'
+cache_timeout: null
+uuid: f0963b6c-16f7-4e03-9f23-4e9b35b040f1
+version: 1.0.0
+dataset_uuid: 90d0c4d3-dafb-4506-ba04-44d2c68c71f6

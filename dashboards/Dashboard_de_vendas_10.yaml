@@ -1,0 +1,475 @@
+dashboard_title: Dashboard de vendas
+description: null
+css: "/*Titulos dos visuais*/\n#GRID_ID-panel-GRID_ID > div > div > div:nth-child(1)\
+  \ > div > div > div:nth-child(1) > div > div > div > div > div > div > div > div.css-xojzyz\
+  \ > div.header-title,\n#GRID_ID-panel-GRID_ID > div > div > div:nth-child(1) > div\
+  \ > div > div:nth-child(2) > div > div > div > div > div > div > div > div.css-xojzyz\
+  \ > div.header-title,\n#GRID_ID-panel-GRID_ID > div > div > div:nth-child(1) > div\
+  \ > div > div:nth-child(3) > div > div > div > div > div > div > div > div.css-xojzyz\
+  \ > div.header-title,\n#GRID_ID-panel-GRID_ID > div > div > div:nth-child(1) > div\
+  \ > div > div:nth-child(4) > div > div > div > div > div > div > div > div.css-xojzyz\
+  \ > div.header-title{\n  font-size: 18 px !important;\n  font-weight: bold !important;\n\
+  \  color: black !important;\n}\n\n/*Esconde \xEDcone de filtro dos visuais*/\n#GRID_ID-panel-GRID_ID\
+  \ > div > div > div:nth-child(1) > div > div > div:nth-child(1) > div > div.with-popover-menu.css-12783yv\
+  \ > div > div > div > div.dashboard-component.dashboard-component-chart-holder.dashboard-chart-id-75.fade-out.css-0\
+  \ > div > div.css-8y2df0 > div.header-controls,\n#GRID_ID-panel-GRID_ID > div >\
+  \ div > div:nth-child(1) > div > div > div:nth-child(2) > div > div.with-popover-menu.css-12783yv\
+  \ > div > div > div > div.dashboard-component.dashboard-component-chart-holder.dashboard-chart-id-76.fade-out.css-0\
+  \ > div > div.css-8y2df0 > div.header-controls,\n#GRID_ID-panel-GRID_ID > div >\
+  \ div > div:nth-child(1) > div > div > div:nth-child(3) > div > div.with-popover-menu.css-12783yv\
+  \ > div > div > div > div.dashboard-component.dashboard-component-chart-holder.dashboard-chart-id-77.fade-out.css-0\
+  \ > div > div.css-8y2df0 > div.header-controls,\n#GRID_ID-panel-GRID_ID > div >\
+  \ div > div:nth-child(1) > div > div > div:nth-child(4) > div > div.with-popover-menu.css-12783yv\
+  \ > div > div > div > div.dashboard-component.dashboard-component-chart-holder.dashboard-chart-id-78.fade-out.css-0\
+  \ > div > div.css-8y2df0 > div.header-controls,\n#GRID_ID-panel-GRID_ID > div >\
+  \ div > div:nth-child(1) > div > div > div:nth-child(5) > div > div.dashboard-component.dashboard-component-chart-holder.dashboard-chart-id-79.fade-out.css-0\
+  \ > div > div.css-8y2df0 > div.header-controls{\n  display: none;\n}\n\n\n/*Estilo\
+  \ dos visuais*/\n#GRID_ID-panel-GRID_ID > div > div > div:nth-child(1) > div > div\
+  \ > div:nth-child(1) > div > div > div > div > div > div,\n#GRID_ID-panel-GRID_ID\
+  \ > div > div > div:nth-child(1) > div > div > div:nth-child(2) > div > div > div\
+  \ > div > div > div,\n#GRID_ID-panel-GRID_ID > div > div > div:nth-child(1) > div\
+  \ > div > div:nth-child(3) > div > div > div > div > div > div,\n#GRID_ID-panel-GRID_ID\
+  \ > div > div > div:nth-child(1) > div > div > div:nth-child(4) > div > div > div\
+  \ > div > div > div,\n#GRID_ID-panel-GRID_ID > div > div > div:nth-child(1) > div\
+  \ > div > div:nth-child(5) > div > div,\n#GRID_ID-panel-GRID_ID > div > div > div:nth-child(2)\
+  \ > div > div > div:nth-child(1) > div > div > div > div > div > div,\n#GRID_ID-panel-GRID_ID\
+  \ > div > div > div:nth-child(2) > div > div > div:nth-child(2) > div > div,\n#GRID_ID-panel-GRID_ID\
+  \ > div > div > div:nth-child(3) > div > div > div:nth-child(1) > div > div,\n#GRID_ID-panel-GRID_ID\
+  \ > div > div > div:nth-child(3) > div > div > div:nth-child(2) > div > div,\n#GRID_ID-panel-GRID_ID\
+  \ > div > div > div:nth-child(4) > div > div > div > div > div{\n  box-shadow: 10px\
+  \ 5px 5px 0px gray !important;\n  border-width: 3px; \n  border-style: solid; \n\
+  \  border-color: gray; \n  border-radius: 8px\n}"
+slug: null
+certified_by: ''
+certification_details: ''
+published: false
+uuid: 0b1e2588-c17e-4859-ae5c-bf499813a2a2
+position:
+  CHART-3QgMrHngbP:
+    children: []
+    id: CHART-3QgMrHngbP
+    meta:
+      chartId: 78
+      height: 14
+      sliceName: "Cart\xE3o de Cr\xE9dito"
+      uuid: f0963b6c-16f7-4e03-9f23-4e9b35b040f1
+      width: 3
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-kqB_iC6P7Q
+    - COLUMN-vTMJtz4Zjc
+    type: CHART
+  CHART-DDrF-ztN8s:
+    children: []
+    id: CHART-DDrF-ztN8s
+    meta:
+      chartId: 77
+      height: 14
+      sliceName: "Boleto Banc\xE1rio"
+      uuid: 0ae641d8-1088-4963-a485-916041a94bf7
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-kqB_iC6P7Q
+    - COLUMN-JCdQto8Q5K
+    type: CHART
+  CHART-KZQCNhisi1:
+    children: []
+    id: CHART-KZQCNhisi1
+    meta:
+      chartId: 76
+      height: 14
+      sliceName: Quantidade total
+      uuid: c58b3e2c-49c5-4e1c-ad0b-f3e92bad9ab8
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-kqB_iC6P7Q
+    - COLUMN-RqQVrrP9Z3
+    type: CHART
+  CHART-M6AO5hvf43:
+    children: []
+    id: CHART-M6AO5hvf43
+    meta:
+      chartId: 74
+      height: 58
+      sliceName: "Faturamento por m\xEAs"
+      uuid: 17473401-252c-4aef-98ca-bf6e1d380ca9
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-LG6hMoOmW
+    type: CHART
+  CHART-YjahCAgNcp:
+    children: []
+    id: CHART-YjahCAgNcp
+    meta:
+      chartId: 83
+      height: 50
+      sliceName: "Distribui\xE7\xE3o % pagamento"
+      uuid: 78dd25f5-28ca-46fc-a9cc-ca01e35ac3ad
+      width: 6
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-Tzs2bRjKDW
+    type: CHART
+  CHART-d2TiAxuYfx:
+    children: []
+    id: CHART-d2TiAxuYfx
+    meta:
+      chartId: 75
+      height: 14
+      sliceName: Faturamento Total
+      uuid: 64316309-fdc8-4969-be5f-3e309e3e6df6
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-kqB_iC6P7Q
+    - COLUMN-slBpSFGSG5
+    type: CHART
+  CHART-ewzSNUmvBk:
+    children: []
+    id: CHART-ewzSNUmvBk
+    meta:
+      chartId: 80
+      height: 50
+      sliceName: "Faturamento por regi\xE3o"
+      uuid: 4fdcdc98-b1bb-4a6a-9ea8-17dc8d3bc329
+      width: 6
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-Tzs2bRjKDW
+    - COLUMN-rbfSgWbCqy
+    type: CHART
+  CHART-yZ5Y_PM4TI:
+    children: []
+    id: CHART-yZ5Y_PM4TI
+    meta:
+      chartId: 79
+      height: 14
+      sliceName: "Cart\xE3o de D\xE9bito"
+      uuid: 6e477e6a-3d9c-450d-8d78-468ec90b0243
+      width: 2
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-kqB_iC6P7Q
+    type: CHART
+  CHART-ydc2eKgVWH:
+    children: []
+    id: CHART-ydc2eKgVWH
+    meta:
+      chartId: 85
+      height: 50
+      sliceName: "Quantidade vendida por m\xEAs"
+      uuid: daba1662-d36c-4c68-b643-a56be774f134
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-WWv_5-Efvr
+    type: CHART
+  COLUMN-JCdQto8Q5K:
+    children:
+    - CHART-DDrF-ztN8s
+    id: COLUMN-JCdQto8Q5K
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      width: 2
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-kqB_iC6P7Q
+    type: COLUMN
+  COLUMN-RqQVrrP9Z3:
+    children:
+    - CHART-KZQCNhisi1
+    id: COLUMN-RqQVrrP9Z3
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      width: 3
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-kqB_iC6P7Q
+    type: COLUMN
+  COLUMN-rbfSgWbCqy:
+    children:
+    - CHART-ewzSNUmvBk
+    id: COLUMN-rbfSgWbCqy
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      width: 6
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-Tzs2bRjKDW
+    type: COLUMN
+  COLUMN-slBpSFGSG5:
+    children:
+    - CHART-d2TiAxuYfx
+    id: COLUMN-slBpSFGSG5
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      width: 3
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-kqB_iC6P7Q
+    type: COLUMN
+  COLUMN-vTMJtz4Zjc:
+    children:
+    - CHART-3QgMrHngbP
+    id: COLUMN-vTMJtz4Zjc
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      width: 2
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-kqB_iC6P7Q
+    type: COLUMN
+  DASHBOARD_VERSION_KEY: v2
+  GRID_ID:
+    children:
+    - ROW-kqB_iC6P7Q
+    - ROW-Tzs2bRjKDW
+    - ROW-LG6hMoOmW
+    - ROW-WWv_5-Efvr
+    id: GRID_ID
+    parents:
+    - ROOT_ID
+    type: GRID
+  HEADER_ID:
+    id: HEADER_ID
+    meta:
+      text: Dashboard de vendas
+    type: HEADER
+  ROOT_ID:
+    children:
+    - GRID_ID
+    id: ROOT_ID
+    type: ROOT
+  ROW-LG6hMoOmW:
+    children:
+    - CHART-M6AO5hvf43
+    id: ROW-LG6hMoOmW
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-Tzs2bRjKDW:
+    children:
+    - COLUMN-rbfSgWbCqy
+    - CHART-YjahCAgNcp
+    id: ROW-Tzs2bRjKDW
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-WWv_5-Efvr:
+    children:
+    - CHART-ydc2eKgVWH
+    id: ROW-WWv_5-Efvr
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-kqB_iC6P7Q:
+    children:
+    - COLUMN-slBpSFGSG5
+    - COLUMN-RqQVrrP9Z3
+    - COLUMN-JCdQto8Q5K
+    - COLUMN-vTMJtz4Zjc
+    - CHART-yZ5Y_PM4TI
+    id: ROW-kqB_iC6P7Q
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+metadata:
+  chart_configuration:
+    '74':
+      id: 74
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 75
+        - 76
+        - 77
+        - 78
+        - 79
+        - 80
+        - 83
+        - 85
+    '80':
+      id: 80
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 74
+        - 75
+        - 76
+        - 77
+        - 78
+        - 79
+        - 83
+        - 85
+    '83':
+      id: 83
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 74
+        - 75
+        - 76
+        - 77
+        - 78
+        - 79
+        - 80
+        - 85
+    '85':
+      id: 85
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 74
+        - 75
+        - 76
+        - 77
+        - 78
+        - 79
+        - 80
+        - 83
+  global_chart_configuration:
+    scope:
+      rootPath:
+      - ROOT_ID
+      excluded: []
+    chartsInScope:
+    - 74
+    - 75
+    - 76
+    - 77
+    - 78
+    - 79
+    - 80
+    - 83
+    - 85
+  color_scheme: wavesOfBlue
+  refresh_frequency: 10
+  expanded_slices: {}
+  label_colors: {}
+  timed_refresh_immune_slices: []
+  cross_filters_enabled: false
+  default_filters: '{}'
+  native_filter_configuration:
+  - id: NATIVE_FILTER-sg_l56Mge
+    controlValues:
+      enableEmptyFilter: true
+      defaultToFirstItem: true
+      multiSelect: false
+      searchAllOptions: true
+      inverseSelection: false
+    name: Ano
+    filterType: filter_select
+    targets:
+    - column:
+        name: Ano
+      datasetUuid: 9b678d61-3bf1-43a7-b325-fe41a1cd3f4b
+    defaultDataMask:
+      extraFormData: {}
+      filterState: {}
+      ownState: {}
+    cascadeParentIds: []
+    scope:
+      rootPath:
+      - ROOT_ID
+      excluded: []
+    type: NATIVE_FILTER
+    description: ''
+    chartsInScope:
+    - 74
+    - 75
+    - 76
+    - 77
+    - 78
+    - 79
+    - 80
+    - 82
+    - 83
+    tabsInScope: []
+    requiredFirst: true
+  - id: NATIVE_FILTER-6gOPY7ASc
+    controlValues:
+      enableEmptyFilter: true
+      defaultToFirstItem: true
+      multiSelect: false
+      searchAllOptions: true
+      inverseSelection: false
+    requiredFirst: true
+    name: Produto
+    filterType: filter_select
+    targets:
+    - column:
+        name: Produto
+      datasetUuid: 12d968e9-d7fb-42b2-9233-6d4c6ea4e180
+    defaultDataMask:
+      extraFormData: {}
+      filterState: {}
+      ownState: {}
+    cascadeParentIds: []
+    scope:
+      rootPath:
+      - ROOT_ID
+      excluded: []
+    type: NATIVE_FILTER
+    description: ''
+    chartsInScope:
+    - 74
+    - 75
+    - 76
+    - 77
+    - 78
+    - 79
+    - 80
+    - 82
+    - 83
+    tabsInScope: []
+  filter_bar_orientation: HORIZONTAL
+  stagger_refresh: true
+  color_scheme_domain:
+  - '#070061'
+  - '#0A0095'
+  - '#0054B4'
+  - '#006BE7'
+  - '#2289FF'
+  - '#4A9FFF'
+  - '#76B6FF'
+  - '#9DCBFF'
+  - '#BEDCFF'
+  - '#DAEBFF'
+  shared_label_colors:
+  - Valor
+  map_label_colors:
+    Valor: '#070061'
+    "Boleto Banc\xE1rio": '#070061'
+    "Cart\xE3o de D\xE9bito": '#0A0095'
+    "Cart\xE3o de Cr\xE9dito": '#0054B4'
+    COUNT(Produto): '#070061'
+version: 1.0.0

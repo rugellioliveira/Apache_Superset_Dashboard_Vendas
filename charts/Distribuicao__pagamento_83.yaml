@@ -1,0 +1,64 @@
+slice_name: "Distribui\xE7\xE3o % pagamento"
+description: null
+certified_by: null
+certification_details: null
+viz_type: pie
+params:
+  datasource: 35__table
+  viz_type: pie
+  slice_id: 83
+  groupby:
+  - FormaPgto
+  metric:
+    aggregate: SUM
+    column:
+      advanced_data_type: null
+      changed_on: '2024-05-31T02:31:04.152579'
+      column_name: Valor
+      created_on: '2024-05-31T02:31:04.152577'
+      description: null
+      expression: null
+      extra: '{}'
+      filterable: true
+      groupby: true
+      id: 769
+      is_active: true
+      is_dttm: false
+      python_date_format: null
+      type: FLOAT
+      type_generic: 0
+      uuid: 9febca2c-6fea-4cd7-b1c3-9dfc66043029
+      verbose_name: null
+    datasourceWarning: false
+    expressionType: SIMPLE
+    hasCustomLabel: false
+    label: SUM(Valor)
+    optionName: metric_xr0pqr9v9ih_yool0jcr9
+    sqlExpression: null
+  adhoc_filters: []
+  row_limit: 100
+  sort_by_metric: true
+  color_scheme: supersetColors
+  show_labels_threshold: 5
+  show_legend: true
+  legendType: scroll
+  legendOrientation: top
+  legendMargin: null
+  label_type: percent
+  number_format: $,.2f
+  date_format: smart_date
+  show_labels: true
+  labels_outside: true
+  label_line: true
+  show_total: false
+  outerRadius: 68
+  donut: true
+  innerRadius: 30
+  extra_form_data: {}
+  dashboards:
+  - 8
+query_context: '{"datasource":{"id":35,"type":"table"},"force":false,"queries":[{"filters":[],"extras":{"having":"","where":""},"applied_time_extras":{},"columns":["FormaPgto"],"metrics":[{"aggregate":"SUM","column":{"advanced_data_type":null,"changed_on":"2024-05-31T02:31:04.152579","column_name":"Valor","created_on":"2024-05-31T02:31:04.152577","description":null,"expression":null,"extra":"{}","filterable":true,"groupby":true,"id":769,"is_active":true,"is_dttm":false,"python_date_format":null,"type":"FLOAT","type_generic":0,"uuid":"9febca2c-6fea-4cd7-b1c3-9dfc66043029","verbose_name":null},"datasourceWarning":false,"expressionType":"SIMPLE","hasCustomLabel":false,"label":"SUM(Valor)","optionName":"metric_xr0pqr9v9ih_yool0jcr9","sqlExpression":null}],"orderby":[[{"aggregate":"SUM","column":{"advanced_data_type":null,"changed_on":"2024-05-31T02:31:04.152579","column_name":"Valor","created_on":"2024-05-31T02:31:04.152577","description":null,"expression":null,"extra":"{}","filterable":true,"groupby":true,"id":769,"is_active":true,"is_dttm":false,"python_date_format":null,"type":"FLOAT","type_generic":0,"uuid":"9febca2c-6fea-4cd7-b1c3-9dfc66043029","verbose_name":null},"datasourceWarning":false,"expressionType":"SIMPLE","hasCustomLabel":false,"label":"SUM(Valor)","optionName":"metric_xr0pqr9v9ih_yool0jcr9","sqlExpression":null},false]],"annotation_layers":[],"row_limit":100,"series_limit":0,"order_desc":true,"url_params":{},"custom_params":{},"custom_form_data":{}}],"form_data":{"datasource":"35__table","viz_type":"pie","slice_id":83,"groupby":["FormaPgto"],"metric":{"aggregate":"SUM","column":{"advanced_data_type":null,"changed_on":"2024-05-31T02:31:04.152579","column_name":"Valor","created_on":"2024-05-31T02:31:04.152577","description":null,"expression":null,"extra":"{}","filterable":true,"groupby":true,"id":769,"is_active":true,"is_dttm":false,"python_date_format":null,"type":"FLOAT","type_generic":0,"uuid":"9febca2c-6fea-4cd7-b1c3-9dfc66043029","verbose_name":null},"datasourceWarning":false,"expressionType":"SIMPLE","hasCustomLabel":false,"label":"SUM(Valor)","optionName":"metric_xr0pqr9v9ih_yool0jcr9","sqlExpression":null},"adhoc_filters":[],"row_limit":100,"sort_by_metric":true,"color_scheme":"supersetColors","show_labels_threshold":5,"show_legend":true,"legendType":"scroll","legendOrientation":"top","legendMargin":null,"label_type":"percent","number_format":"$,.2f","date_format":"smart_date","show_labels":true,"labels_outside":true,"label_line":true,"show_total":false,"outerRadius":68,"donut":true,"innerRadius":30,"extra_form_data":{},"dashboards":[8],"force":false,"result_format":"json","result_type":"full"},"result_format":"json","result_type":"full"}'
+cache_timeout: null
+uuid: 78dd25f5-28ca-46fc-a9cc-ca01e35ac3ad
+version: 1.0.0
+dataset_uuid: b2618b38-acdd-4895-8ddc-2ef485f06bdd

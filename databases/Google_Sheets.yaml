@@ -1,0 +1,17 @@
+database_name: Google Sheets
+sqlalchemy_uri: gsheets://
+cache_timeout: null
+expose_in_sqllab: true
+allow_run_async: false
+allow_ctas: false
+allow_cvas: false
+allow_dml: false
+allow_file_upload: false
+extra:
+  allows_virtual_table_explore: true
+  engine_params:
+    catalog:
+      dadosvendas: https://docs.google.com/spreadsheets/d/1lOVcrjuu4PuZkUIWeAbZ2t_9MVKpvKplqdlQzidBTqM/edit?usp=sharing
+impersonate_user: true
+uuid: 1069254d-fcd9-478b-a05e-f362ad95ddc0
+version: 1.0.0
