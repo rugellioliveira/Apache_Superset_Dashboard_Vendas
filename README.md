@@ -1,4 +1,4 @@
-**Dashboard de Vendas – Apache Superset:**
+**Apache Superset - dashboard de vendas:**
 ---
 
 Este repositório contém os arquivos de exportação (`.yaml`) dos dashboards de vendas desenvolvidos na ferramenta de BI Apache Superset. 
@@ -14,3 +14,8 @@ Ele serve para versionar e facilitar a reimportação dos dashboards em diferent
 1. Os arquivos YAML foram gerados via funcionalidade de exportação do Superset.
 2. Recomendado usar controle de versão para rastrear mudanças em dashboards ao longo do tempo.
 3. Algumas importações podem exigir ajuste manual se houver mudanças no nome dos datasets ou conexões.
+
+**Dashboard de vendas:**
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5f898f56-26a8-4717-ae7e-30faaaeaef89" width="600px">
+</div>
